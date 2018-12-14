@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Book Store 1</string>
+    <string name="read_data">Read Data</string>
+    <string name="insert_data">Insert Data</string>
+</resources>
